@@ -1,0 +1,2 @@
+- Hi, I’m @hiornso
+- I like optimised, highly parallelised code, graphics processing, CPU architecture design and stuff being small and not bloated.
