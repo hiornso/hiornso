@@ -1,2 +1,2 @@
 - Hi, I’m @hiornso
-- I like optimised, highly parallelised code, graphics processing, CPU architecture design and stuff being small and not bloated.
+- I like optimised, highly parallelised code, graphics processing, CPU architecture design. I strongly dislike code that crashes and is not completely reliable, as well as code that is bloated or slow.
